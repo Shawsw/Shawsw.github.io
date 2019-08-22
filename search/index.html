@@ -37,7 +37,7 @@
       if (document.images) {
         var avatar = new Image();
         avatar.src = '/imgs/avatar.jpg'
-        var previews = 'preview1.jpg,preview2.jpg,preview3.jpg,preview4.jpg'.split(',')
+        var previews = 'preview0.jpg,preview1.jpg,preview2.jpg,preview3.jpg,preview4.jpg'.split(',')
         var previewsPreLoad = []
         for(var i = 0; i < length; i++) {
           previewsPreLoad.push(new Image())
@@ -190,6 +190,14 @@
                 </li>
                 
                 
+                
+                <li class="">
+                    <a href="/resume">
+                        <i class="fa fa-user"></i>Shawsw简历
+                    </a>
+                </li>
+                
+                
             </ul>
         </div>
     </div>
@@ -254,7 +262,7 @@
       	var [month, day] = article.date.split('-')
         ''
         ''
-        var defaultPreview = '/imgs/preview/preview4.jpg'
+        var defaultPreview = '/imgs/preview/preview3.jpg'
         var preview = article.preview ? article.preview : defaultPreview
         var path = '/' + article.path
         resultList.append(`<div class="article well clearfix article-body article-excerpt" data-aos="flip-up">
@@ -544,11 +552,11 @@
                 
                 <div class="cloud-tags tab-pane nav bs-sidenav fade" id="sidebar-tags">
     
-    <a href="/tags/mood/" style="font-size: 19.14344379098312px;" class="tag-cloud-link">mood</a>
+    <a href="/tags/mood/" style="font-size: 17.850916363130814px;" class="tag-cloud-link">mood</a>
     
-    <a href="/tags/soom/" style="font-size: 15.174640629042887px;" class="tag-cloud-link">soom</a>
+    <a href="/tags/soom/" style="font-size: 19.472134558272817px;" class="tag-cloud-link">soom</a>
     
-    <a href="/tags/Beautiful-word/" style="font-size: 10.002519367729635px;" class="tag-cloud-link">Beautiful word</a>
+    <a href="/tags/Beautiful-word/" style="font-size: 14.23499497991394px;" class="tag-cloud-link">Beautiful word</a>
     
 </div>
                 
