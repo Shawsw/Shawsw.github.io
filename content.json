@@ -2,10 +2,10 @@
 	"meta": {
 		"title": "应聘帮 Public Blog",
 		"subtitle": "致力于打造属于你的应聘大帮手",
-		"description": "我只致力于打造属于你的应聘大帮手1111.",
+		"description": "我只致力于打造属于你的应聘大帮手.",
 		"author": "应聘帮",
-		"url": "https://www/",
-		"root": "/"
+		"url": "https://shawsw.github.io/wushixBlog.io",
+		"root": "/index.html"
 	},
 	"pages": [{
 		"title": "404",
