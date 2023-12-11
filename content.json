@@ -4,7 +4,7 @@
 		"description": "我只致力于打造属于你的应聘大帮手1111.",
 		"description": "我只致力于打造属于你的应聘大帮手.",
 		"author": "应聘帮",
-		"url": "https://shawsw.github.io/wushixBlog.io",
+		"url": "https://shawsw.github.io",
 		"root": "/index.html"
 	},
 	"pages": [{
@@ -53,7 +53,7 @@
 		"tags": [{
 			"name": "求职面试技巧大全",
 			"slug": "求职面试技巧大全",
-			"permalink": "https://shawsw.github.io/Shawsw_Blog.github.io/tags/求职面试技巧大全/"
+			"permalink": "https://shawsw.github.io/tags/求职面试技巧大全/"
 		}]
 	}, {
 		"title": "日月莲花陈小鱼 的2020求职经验分享",
@@ -64,7 +64,7 @@
 		"tags": [{
 			"name": "2020求职经验分享大会",
 			"slug": "2020求职经验分享大会",
-			"permalink": "https://shawsw.github.io/Shawsw_Blog.github.io/tags/2020求职经验分享大会/"
+			"permalink": "https://shawsw.github.io/tags/2020求职经验分享大会/"
 		}]
 	}, {
 		"title": "日记",
@@ -75,7 +75,7 @@
 		"tags": [{
 			"name": "mood",
 			"slug": "mood",
-			"permalink": "https://shawsw.github.io/Shawsw_Blog.github.io/tags/mood/"
+			"permalink": "https://shawsw.github.io/tags/mood/"
 		}]
 	}, {
 		"title": "美文奉上",
@@ -86,7 +86,7 @@
 		"tags": [{
 			"name": "Beautiful word",
 			"slug": "Beautiful-word",
-			"permalink": "https://shawsw.github.io/Shawsw_Blog.github.io/tags/Beautiful-word/"
+			"permalink": "https://shawsw.github.io/tags/Beautiful-word/"
 		}]
 	}, {
 		"title": "木鱼心中的那滴，佛泪",
@@ -97,7 +97,7 @@
 		"tags": [{
 			"name": "soom",
 			"slug": "soom",
-			"permalink": "https://shawsw.github.io/Shawsw_Blog.github.io/tags/soom/"
+			"permalink": "https://shawsw.github.io/tags/soom/"
 		}]
 	}, {
 		"title": "Hello World MY Load",
@@ -108,7 +108,7 @@
 		"tags": [{
 			"name": "mood",
 			"slug": "mood",
-			"permalink": "https://shawsw.github.io/Shawsw_Blog.github.io/tags/mood/"
+			"permalink": "https://shawsw.github.io/tags/mood/"
 		}]
 	}]
 }
